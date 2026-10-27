@@ -1,6 +1,6 @@
 import React from "react";
-import MovieList from "./components/MovieList";
-import GenreFilter from "./components/GenreFilter";
+import GenreFilter from "./components/GenreFilter.jsx";
+import MovieList from "./components/MovieList.jsx";
 import "./App.css";
 
 const movies = [
